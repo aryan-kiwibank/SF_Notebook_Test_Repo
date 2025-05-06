@@ -1,0 +1,13 @@
+[[source]]
+url = "${CODEARTIFACT_URL}"
+verify_ssl = true
+name = "codeartifact"
+
+[dev-packages]
+snowflake-snowpark-python = "*"
+ipykernel = "*"
+notebook = "*"
+pandas = "*"
+
+[requires]
+python_version = "3.11"
