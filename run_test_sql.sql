@@ -1,0 +1,1 @@
+select * from RAW.TEST_TOPIC_V1__RAW limit 5;
